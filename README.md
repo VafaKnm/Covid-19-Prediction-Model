@@ -1,4 +1,4 @@
-# Covid-19-Prediction-Model
+# Covid19 Prediction Model
 covid19 detection using CT-scan images using CNN model
 
 This is a python code written in Kaggle environment; You can see all descriptions inside the code.
